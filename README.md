@@ -15,7 +15,7 @@ convolucional.
 ## Artículo
 
 El presente proyecto fue publicado en el volumen número 12 
-de la revista actuarios trabajando, por el Colegio Nacional 
+de la revista *Actuarios Trabajando* (2022), por el Colegio Nacional 
 de Actuarios. [Link](https://lnkd.in/gCAjjqng)
 
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQEdJ7-PYMDA_g/feedshare-shrink_800/0/1658848731876?e=1665619200&v=beta&t=9fCydMtx1rOrVw12ns7rX3Bh30NoqB7mgWbqP-mpWE0)
