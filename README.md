@@ -9,8 +9,10 @@ funcionamiento de los algoritmos más relevantes,
 además de la explicación de cada una de las etapas del 
 reconocimiento de caracteres (OCR). Finalmente, la 
 construcción de un algoritmo con ayuda de uno de los 
-métodos explicados, específicamente, una red neuronal 
-convolucional.
+métodos explicados, específicamente, una *red neuronal 
+convolucional*.
+
+![](https://anderfernandez.com/wp-content/uploads/2020/03/Red-Neuronal-Convolucional.gif)
 
 ## Artículo
 
