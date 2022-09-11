@@ -14,6 +14,10 @@ convolucional*.
 
 ![](https://anderfernandez.com/wp-content/uploads/2020/03/Red-Neuronal-Convolucional.gif)
 
+## Aprendizaje
+- Uso de redes neuronales para el reconocimiento y clasificación de imágenes
+- Uso de las bibliotecas Tensorflow y Keras
+
 ## Artículo
 
 El presente proyecto fue publicado en el volumen número 12 
